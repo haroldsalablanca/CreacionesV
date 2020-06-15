@@ -1,0 +1,10 @@
+C:\Users\harol\Desktop\2020\CreacionesVivas\CreacionesVivas\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\harol\Desktop\2020\CreacionesVivas\CreacionesVivas\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\harol\Desktop\2020\CreacionesVivas\CreacionesVivas\capaEntidad\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\harol\Desktop\2020\CreacionesVivas\CreacionesVivas\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\harol\Desktop\2020\CreacionesVivas\CreacionesVivas\capaEntidad\obj\Debug\capaEntidad.pdb
+C:\Users\harol\Desktop\2020\CreacionesVivas\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\harol\Desktop\2020\CreacionesVivas\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\harol\Desktop\2020\CreacionesVivas\capaEntidad\obj\Debug\capaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\harol\Desktop\2020\CreacionesVivas\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\harol\Desktop\2020\CreacionesVivas\capaEntidad\obj\Debug\capaEntidad.pdb

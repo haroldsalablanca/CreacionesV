@@ -1,0 +1,15 @@
+   	         Programación en Base de Dato
+		CREACIONES VIVAS 
+
+1. Dentro de la carpeta de proyecto CreacionesVivas 
+   se encuentra el script de la dase de Dato    "CreacionesVivas_Tablas_Proced" : -> Ejecutar  
+   cada tabla, procedimientos almacenados y los datos 
+   en SQL Server.
+
+2. Iniciar la solucion "CreacionesVivas" dentro del proyecto.
+
+3. Conectar el proyecto a la Base de Dato que se ha ejecutado
+    en SQL Server -> En la carpeta del proyecto 
+    capaDato -> Conexion.cs  y modifique la conexion.
+
+4.  Iniciar el proyecto.
